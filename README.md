@@ -29,5 +29,6 @@ To work and submit your solution, please do the following:
 * Use a recent version of Unity (2018 or higher good)
 * Code in C#
 * Submit your work as a pull request against the repo
+* TAKE NO MORE THAN 10 HOURS PLEASE (incomplete solutions are totally okay!)
 
 Thanks for taking our test! Please send any questions to brian.schulman@wnkinc.co
